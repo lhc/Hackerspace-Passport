@@ -12,7 +12,7 @@ Passaportehacker.jpg
 "O "Passaporte Hacker" ("Hackerspace Passport") é uma imitação de passaporte que foi criada pelo Mitch Altman, do Noisebridge, como uma forma divertida de estimular as pessoas a visitarem outros hackerspaces e guardarem um tipo de recordação das visitas que fizeram. Assim, sempre que você visita um hackerspace, ganha um carimbo em seu passaporte, com o logo do hackerspace visitado.
 
 O passaporte pode ajudar a promover um maior número visitas a hackerspaces em todo o mundo. Além do mais, o passaporte hacker transmite uma sensação maior de que fazemos todos parte de uma grande comunidade. De quebra, também serve para estimular os hackerspaces a aumentar a colaboração mútua e a visitação entre eles."
-Texto retirada da página do Gagora Hacker Clube. 
+Texto retirada da página do Garoa Hacker Clube. 
 - [Passaporte Hacker Texto](https://garoa.net.br/wiki/Passaporte_Hacker)
 
 # FAZER
@@ -26,7 +26,7 @@ Texto retirada da página do Gagora Hacker Clube.
 - [ ] Escolher capa ( uma idéia Fazer um concurso ou votação para utilizar uma arte relacionada ao Santos Dumont)
 - [ ] Orçamento de produção
 - [ ] Pré Venda
- -[ ] Produção
+- [ ] Produção
 - [ ] Envio aos Hackerspaces
 
 
