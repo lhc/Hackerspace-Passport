@@ -13,7 +13,7 @@ Passaportehacker.jpg
 
 O passaporte pode ajudar a promover um maior número visitas a hackerspaces em todo o mundo. Além do mais, o passaporte hacker transmite uma sensação maior de que fazemos todos parte de uma grande comunidade. De quebra, também serve para estimular os hackerspaces a aumentar a colaboração mútua e a visitação entre eles."
 Texto retirada da página do Gagora Hacker Clube.
-[https://garoa.net.br/wiki/Passaporte_Hacker](Passaporte Hacker Texto)
+(https://garoa.net.br/wiki/Passaporte_Hacker)[Passaporte Hacker Texto]
 
 # FAZER
 - [x] Escrever o README
