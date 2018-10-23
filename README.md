@@ -34,4 +34,5 @@ Texto retirada da página do Gagora Hacker Clube.
 - [Passport](https://www.noisebridge.net/wiki/Passport)
 - [Hackerspace Passport](https://www.seeedstudio.com/depot/hackerspace-passport-p-1027.html)
 - [Imagens about](https://www.flickr.com/groups/1718510@N24/)
-- [Noisebridge PDF](https://www.noisebridge.net/images/0/0c/Hackerpass08.pdf](Noisebridge PDF)
+- [Noisebridge PDF](https://www.noisebridge.net/images/0/0c/Hackerpass08.pdf)
+- [Jerimum Hackerspace passaport](https://github.com/alexaquino/jerimum_hackerspace_passport)
