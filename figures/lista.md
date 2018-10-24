@@ -2,6 +2,7 @@
 # Lista
 
 - [x] 0xe Hacker Club
+- [x] Jerimum Hackerspace
 - [ ] Mandacaru Hackerspace
 - [ ] Zeroum Hackerspace
 - [ ] Raul Hacker Club
@@ -11,7 +12,7 @@
 - [ ] Cora Hacker Clube
 - [ ] CG Hackspace
 - [ ] Teresina Hacker Clube
-- [ ] GaragemHacker
+- [x] GaragemHacker
 - [ ] Hackerspace Maringá
 - [ ] Área 21 Hacker Clube
 - [ ] Carioca Hackerspace
