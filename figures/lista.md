@@ -7,7 +7,7 @@
 - [ ] Zeroum Hackerspace
 - [ ] Raul Hacker Club
 - [ ] [ForHacker]space (provisório)
-- [ ] Calango Hacker Club
+- [x] Calango Hacker Club
 - [ ] Pixa Hacker Clube
 - [ ] Cora Hacker Clube
 - [ ] CG Hackspace
@@ -18,7 +18,7 @@
 - [ ] Carioca Hackerspace
 - [ ] Rio Hacker Space
 - [ ] Hackerspace Natal
-- [ ] MateHackers
+- [x] MateHackers
 - [ ] Laboratorio Hacker
 - [ ] Tarrafa Hackerspace
 - [ ] Concas Hackerspace
