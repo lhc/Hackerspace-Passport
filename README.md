@@ -22,13 +22,46 @@ Texto retirada da página do Garoa Hacker Clube.
 - [ ] Logotipo dos principais eventos que envolvem as comunidades de Hackerspace
 - [x] Pasta Vetorizado
 - [x] Liste de Hackerspaces Brasileiros
-- [ ] Solicitar arquivos vetorizados
+- [x] Solicitar arquivos vetorizados
 - [ ] Escolher capa ( uma idéia Fazer um concurso ou votação para utilizar uma arte relacionada ao Santos Dumont)
 - [ ] Orçamento de produção
 - [ ] Pré Venda
 - [ ] Produção
 - [ ] Envio aos Hackerspaces
 
+# Logotipos de Hackerspaces
+
+- [x] 0xe Hacker Club
+- [x] Jerimum Hackerspace
+- [ ] Mandacaru Hackerspace
+- [ ] Zeroum Hackerspace
+- [ ] Raul Hacker Club
+- [ ] [ForHacker]space (provisório)
+- [x] Calango Hacker Club
+- [ ] Pixa Hacker Clube
+- [ ] Cora Hacker Clube
+- [ ] CG Hackspace
+- [ ] Teresina Hacker Clube
+- [x] GaragemHacker
+- [ ] Hackerspace Maringá
+- [ ] Área 21 Hacker Clube
+- [ ] Carioca Hackerspace
+- [ ] Rio Hacker Space
+- [ ] Hackerspace Natal
+- [x] MateHackers
+- [ ] Laboratorio Hacker
+- [ ] Tarrafa Hackerspace
+- [ ] Concas Hackerspace
+- [ ] XAP Hackerspace
+- [x] Laboratório Hacker de Campinas (LHC)
+- [ ] Baia Hacker
+- [ ] SJC HackerClube
+- [ ] Capivara Hackerspace
+- [ ] Fundação Hackerspace
+- [ ] Garoa Hacker Clube
+- [ ] ABC Makerspace
+- [ ] ABC Open Space
+- [ ] Base 12
 
 # Referências 
 - [Passport](https://www.noisebridge.net/wiki/Passport)
