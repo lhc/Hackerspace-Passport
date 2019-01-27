@@ -59,7 +59,7 @@ Texto retirada da página do Garoa Hacker Clube.
 - [ ] Capivara Hackerspace
 - [ ] Fundação Hackerspace
 - [ ] Garoa Hacker Clube
-- [ ] ABC Makerspace
+- [x] ABC Makerspace
 - [ ] ABC Open Space
 - [ ] Base 12
 
