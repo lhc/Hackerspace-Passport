@@ -39,7 +39,7 @@ Texto retirada da página do Garoa Hacker Clube.
 - [ ] [ForHacker]space (provisório)
 - [x] Calango Hacker Club
 - [ ] Pixa Hacker Clube
-- [ ] Cora Hacker Clube
+- [x] Cora Hacker Clube
 - [ ] CG Hackspace
 - [ ] Teresina Hacker Clube
 - [x] GaragemHacker
