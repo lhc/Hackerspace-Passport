@@ -35,7 +35,7 @@ Texto retirada da página do Garoa Hacker Clube.
 - [x] Jerimum Hackerspace
 - [ ] Mandacaru Hackerspace
 - [ ] Zeroum Hackerspace
-- [ ] Raul Hacker Club
+- [x] Raul Hacker Club
 - [ ] [ForHacker]space (provisório)
 - [x] Calango Hacker Club
 - [ ] Pixa Hacker Clube
@@ -45,12 +45,12 @@ Texto retirada da página do Garoa Hacker Clube.
 - [x] GaragemHacker
 - [ ] Hackerspace Maringá
 - [ ] Área 21 Hacker Clube
-- [ ] Carioca Hackerspace
+- [x] Carioca Hackerspace
 - [ ] Rio Hacker Space
 - [ ] Hackerspace Natal
 - [x] MateHackers
 - [ ] Laboratorio Hacker
-- [ ] Tarrafa Hackerspace
+- [x] Tarrafa Hackerspace
 - [ ] Concas Hackerspace
 - [ ] XAP Hackerspace
 - [x] Laboratório Hacker de Campinas (LHC)
