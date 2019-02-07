@@ -41,7 +41,7 @@ Texto retirada da página do Garoa Hacker Clube.
 - [ ] Pixa Hacker Clube
 - [x] Cora Hacker Clube
 - [ ] CG Hackspace
-- [ ] Teresina Hacker Clube
+- [x] Teresina Hacker Clube
 - [x] GaragemHacker
 - [ ] Hackerspace Maringá
 - [ ] Área 21 Hacker Clube
