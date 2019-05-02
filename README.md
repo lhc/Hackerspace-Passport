@@ -34,17 +34,13 @@ Texto retirada da página do Garoa Hacker Clube.
 - [x] 0xe Hacker Club
 - [x] Jerimum Hackerspace
 - [ ] Mandacaru Hackerspace
-- [ ] Zeroum Hackerspace
 - [x] Raul Hacker Club
-- [ ] [ForHacker]space (provisório)
 - [x] Calango Hacker Club
-- [ ] Pixa Hacker Clube
 - [x] Cora Hacker Clube
 - [ ] CG Hackspace
 - [x] Teresina Hacker Clube
 - [x] GaragemHacker
 - [ ] Hackerspace Maringá
-- [ ] Área 21 Hacker Clube
 - [x] Carioca Hackerspace
 - [ ] Rio Hacker Space
 - [ ] Hackerspace Natal
@@ -55,13 +51,12 @@ Texto retirada da página do Garoa Hacker Clube.
 - [ ] XAP Hackerspace
 - [x] Laboratório Hacker de Campinas (LHC)
 - [ ] Baia Hacker
-- [ ] SJC HackerClube
 - [ ] Capivara Hackerspace
 - [ ] Fundação Hackerspace
 - [ ] Garoa Hacker Clube
 - [x] ABC Makerspace
-- [ ] ABC Open Space
 - [ ] Base 12
+- [x] Santos Hacker Club
 
 # Referências 
 - [Passport](https://www.noisebridge.net/wiki/Passport)
