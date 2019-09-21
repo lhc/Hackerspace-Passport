@@ -37,25 +37,18 @@ Texto retirada da página do Garoa Hacker Clube.
 - [x] Raul Hacker Club
 - [x] Calango Hacker Club
 - [x] Cora Hacker Clube
-- [ ] CG Hackspace
 - [x] Teresina Hacker Clube
 - [x] GaragemHacker
-- [ ] Hackerspace Maringá
+- [x] Hackerspace Maringá
 - [x] Carioca Hackerspace
 - [ ] Rio Hacker Space
-- [ ] Hackerspace Natal
 - [x] MateHackers
-- [ ] Laboratorio Hacker
 - [x] Tarrafa Hackerspace
-- [ ] Concas Hackerspace
 - [ ] XAP Hackerspace
 - [x] Laboratório Hacker de Campinas (LHC)
-- [ ] Baia Hacker
-- [ ] Capivara Hackerspace
-- [ ] Fundação Hackerspace
-- [ ] Garoa Hacker Clube
+- [x] Baia Hacker
+- [x] Garoa Hacker Clube
 - [x] ABC Makerspace
-- [ ] Base 12
 - [x] Santos Hacker Club
 
 # Referências 
@@ -65,3 +58,6 @@ Texto retirada da página do Garoa Hacker Clube.
 - [Noisebridge PDF](https://www.noisebridge.net/images/0/0c/Hackerpass08.pdf)
 - [Jerimum Hackerspace passaport](https://github.com/alexaquino/jerimum_hackerspace_passport)
 - [Listas de Hackerspaces Brasileiros](https://dumonths.github.io/lista)
+
+# Log
+21/09/2019 Solicitado o logotipo para os hackerspaces brasileiros.
