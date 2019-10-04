@@ -44,7 +44,7 @@ Texto retirada da página do Garoa Hacker Clube.
 - [ ] Rio Hacker Space
 - [x] MateHackers
 - [x] Tarrafa Hackerspace
-- [ ] XAP Hackerspace
+- [x] XAP Hackerspace
 - [x] Laboratório Hacker de Campinas (LHC)
 - [x] Baia Hacker
 - [x] Garoa Hacker Clube
