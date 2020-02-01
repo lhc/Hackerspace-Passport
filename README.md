@@ -1,7 +1,7 @@
 ## PT-BR
 
 # Passaporte Hacker
-Hackerspace Passport 2019 project
+Hackerspace Passport 2020 project
 
 Principal motivação foi durante a conversa com o Anchises no H2HC de 2018, acabaram os Passaporte Hacker no GAROA.
 
@@ -57,7 +57,6 @@ Texto retirada da página do Garoa Hacker Clube.
 - [Imagens about](https://www.flickr.com/groups/1718510@N24/)
 - [Noisebridge PDF](https://www.noisebridge.net/images/0/0c/Hackerpass08.pdf)
 - [Jerimum Hackerspace passaport](https://github.com/alexaquino/jerimum_hackerspace_passport)
-- [Listas de Hackerspaces Brasileiros](https://dumonths.github.io/lista)
 
 # Log
 21/09/2019 Solicitado o logotipo para os hackerspaces brasileiros.
