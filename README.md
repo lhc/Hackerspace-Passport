@@ -50,6 +50,8 @@ Texto retirada da página do Garoa Hacker Clube.
 - [x] Garoa Hacker Clube
 - [x] ABC Makerspace
 - [x] Santos Hacker Club
+- [x] Hackerspace Blumenau
+
 
 # Referências 
 - [Passport](https://www.noisebridge.net/wiki/Passport)
