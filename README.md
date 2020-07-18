@@ -62,5 +62,5 @@ Texto retirada da página do Garoa Hacker Clube.
 - [Jerimum Hackerspace passaport](https://github.com/alexaquino/jerimum_hackerspace_passport)
 
 # Log
-21/09/2019 Solicitado o logotipo para os hackerspaces brasileiros.
-18/07/2020 Alterando data e solicitando novamente alguns logotipos, adicionar novos hackerspaces de Bluemnau e Manaus.
+- 21/09/2019 Solicitado o logotipo para os hackerspaces brasileiros.
+- 18/07/2020 Alterando data e solicitando novamente alguns logotipos, adicionar novos hackerspaces de Bluemnau e Manaus.
