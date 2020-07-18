@@ -1,7 +1,7 @@
 ## PT-BR
 
 # Passaporte Hacker
-Hackerspace Passport 2020 project
+Hackerspace Passport 2021 project
 
 Principal motivação foi durante a conversa com o Anchises no H2HC de 2018, acabaram os Passaporte Hacker no GAROA.
 
@@ -18,7 +18,7 @@ Texto retirada da página do Garoa Hacker Clube.
 # FAZER
 - [x] Escrever o README
 - [x] Solicitar o arquivo da primeira versão BR [Primeira Versão](https://www.slideshare.net/anchises/hacker-passport-brazil)
-- [ ] Logotipo vetorizado dos hackerspaces Brasileiros
+- [x] Logotipo vetorizado dos hackerspaces Brasileiros
 - [ ] Logotipo dos principais eventos que envolvem as comunidades de Hackerspace
 - [x] Pasta Vetorizado
 - [x] Liste de Hackerspaces Brasileiros
@@ -51,7 +51,8 @@ Texto retirada da página do Garoa Hacker Clube.
 - [x] ABC Makerspace
 - [x] Santos Hacker Club
 - [x] Hackerspace Blumenau
-
+- [ ] Bug Hackers (Manaus)
+- [ ] Hackerspace Blumenau
 
 # Referências 
 - [Passport](https://www.noisebridge.net/wiki/Passport)
@@ -62,3 +63,4 @@ Texto retirada da página do Garoa Hacker Clube.
 
 # Log
 21/09/2019 Solicitado o logotipo para os hackerspaces brasileiros.
+18/07/2020 Alterando data e solicitando novamente alguns logotipos, adicionar novos hackerspaces de Bluemnau e Manaus.
