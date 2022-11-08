@@ -31,6 +31,7 @@ Texto retirada da página do Garoa Hacker Clube.
 
 # Logotipos de Hackerspaces
 
+- [x] Dumont Hackerspace 
 - [x] 0xe Hacker Club
 - [x] Jerimum Hackerspace
 - [ ] Mandacaru Hackerspace
