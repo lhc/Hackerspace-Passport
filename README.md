@@ -1,11 +1,15 @@
 ## PT-BR
 
-# Passaporte Hacker
+# Passaporte Hacker Ideia
 Hackerspace Passport 2021 project
-
 Principal motivação foi durante a conversa com o Anchises no H2HC de 2018, acabaram os Passaporte Hacker no GAROA.
-
 Divulgar mais sobre os carimbos e passaporte para pessoas utilizem mais em eventos e para visitar os Hackerspace ao mundo afora.
+
+Projeto ficou parado durante a pandemia.
+
+# Passaporte Hacker 2024
+2024 Retornando com a demanda para nova leva de passaporte para os eventos do Laboratório Hacker de Campinas.
+Definindo um novo logo para capa do passaporte, atualizar os logos dos eventos e hackerspaces nas folhas do passaporte e produção para o LHC para o segundo semestre de 2024.
 
 # Sobre o Passaporte
 Passaportehacker.jpg
@@ -19,11 +23,11 @@ Texto retirada da página do Garoa Hacker Clube.
 - [x] Escrever o README
 - [x] Solicitar o arquivo da primeira versão BR [Primeira Versão](https://www.slideshare.net/anchises/hacker-passport-brazil)
 - [x] Logotipo vetorizado dos hackerspaces Brasileiros
-- [ ] Logotipo dos principais eventos que envolvem as comunidades de Hackerspace
 - [x] Pasta Vetorizado
 - [x] Liste de Hackerspaces Brasileiros
 - [x] Solicitar arquivos vetorizados
 - [ ] Escolher capa ( uma idéia Fazer um concurso ou votação para utilizar uma arte relacionada ao Santos Dumont)
+- [ ] Logotipo dos principais eventos que envolvem as comunidades de Hackerspace
 - [ ] Orçamento de produção
 - [ ] Pré Venda
 - [ ] Produção
